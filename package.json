@@ -1,5 +1,5 @@
 {
-  "name": "vue3-proj1",
+  "name": "vue3-proj-api",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
