@@ -1,4 +1,4 @@
-# vue3-proj1
+# vue3 proj API JSONplaceholder
 
 This template should help get you started developing with Vue 3 in Vite.
 
